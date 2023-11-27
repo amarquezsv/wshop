@@ -1,2 +1,4 @@
 django==3.2.4
 Pillow
+psycopg2-binary
+django-admin-tailwind
